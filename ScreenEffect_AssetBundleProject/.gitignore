@@ -1,0 +1,13 @@
+# Unity
+/Library/
+/Temp/
+
+# Visual Studio
+.vs/
+/obj/
+.vsconfig
+*.csproj
+*.sln
+
+# Build
+# /AssetBundles/
