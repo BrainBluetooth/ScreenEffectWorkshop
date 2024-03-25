@@ -7,7 +7,7 @@ Download this repository, make your workshop item, and upload it to enjoy!
 
 # How to make workshop item?
 
-1. Make prefab, the name of your prefab to load must be "RootObject".
-2. Build asset-bundle
+1. Make prefab, the name of your prefab to load must be "RootObject"
+2. Build asset-bundle and script
 3. Make workshop item folder & files
 4. Upload to workshop
