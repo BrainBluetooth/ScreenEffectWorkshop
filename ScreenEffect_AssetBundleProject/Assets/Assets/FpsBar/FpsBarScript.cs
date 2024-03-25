@@ -31,7 +31,7 @@ internal sealed class FpsBarScript : MonoBehaviour
         image = GetComponentInChildren<RawImage>();
     }
 #endif
-    private void Awake()
+    private void Start()
     {
         if (image)
             mat = image.material;

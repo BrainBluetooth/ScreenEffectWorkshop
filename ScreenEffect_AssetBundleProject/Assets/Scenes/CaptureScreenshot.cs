@@ -3,6 +3,7 @@
 using UnityEditor;
 #endif
 
+[ExecuteInEditMode]
 internal sealed class CaptureScreenshot : MonoBehaviour
 {
     [SerializeField] private Material imageEffect;
