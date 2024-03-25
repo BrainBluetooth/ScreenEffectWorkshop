@@ -1,1 +1,1 @@
-# ScreenEffectWorkshop Example
+# ScreenEffect Workshop Example
