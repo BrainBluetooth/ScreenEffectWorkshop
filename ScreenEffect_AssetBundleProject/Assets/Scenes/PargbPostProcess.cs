@@ -1,20 +1,9 @@
 ﻿using UnityEngine;
-#if UNITY_EDITOR
-using UnityEditor;
-#endif
 
 [ExecuteInEditMode]
-internal sealed class CaptureScreenshot : MonoBehaviour
+internal sealed class PargbPostProcess : MonoBehaviour
 {
     [SerializeField] private Material imageEffect;
-
-#if UNITY_EDITOR
-    [MenuItem("Edit/Capture")]
-    private static void Capture()
-    {
-        ScreenCapture.CaptureScreenshot("Screen.png");
-    }
-#endif
 
     private void OnRenderImage(RenderTexture source, RenderTexture destination)
     {
