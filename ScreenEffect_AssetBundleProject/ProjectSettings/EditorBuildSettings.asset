@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ScreenEffect/EditorOnly/Scenes/Screen.unity
+    guid: 9edfc6cfa8f7e6f49ac05bd3360cffe5
   m_configObjects: {}

@@ -20,6 +20,7 @@ TagManager:
   - 
   - 
   - 
+  - Reserved
   - 
   - 
   - 
@@ -27,16 +28,15 @@ TagManager:
   - 
   - 
   - 
+  - Display
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Debug (EDITOR)
+  - Wallpaper (EDITOR)
   m_SortingLayers:
   - name: Default
     uniqueID: 0

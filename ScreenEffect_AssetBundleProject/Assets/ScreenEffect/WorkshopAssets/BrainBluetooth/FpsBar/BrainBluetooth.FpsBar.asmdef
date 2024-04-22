@@ -1,0 +1,19 @@
+{
+    "name": "BrainBluetooth.FpsBar",
+    "references": [
+        "GUID:e06240a20b0ba8a40a16c9f540144b2d"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
